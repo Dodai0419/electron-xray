@@ -1,0 +1,1 @@
+{"name": "unsafe-notes", "productName": "Unsafe Notes", "version": "1.4.0", "main": "main.js", "devDependencies": {"electron": "28.2.0"}, "dependencies": {"marked": "4.0.0"}}

@@ -1,0 +1,1 @@
+{"name": "electron-xray", "owner": {"name": "Dodai0419"}, "plugins": [{"name": "electron-xray", "source": "./", "description": "Check any Electron app for the holes that let a bad web page take over your PC."}]}

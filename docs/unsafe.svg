@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="720" height="380" rx="14" fill="#11151c"/>
+<text x="36" y="58" font-size="26" font-weight="700" fill="#f2f4f8">Unsafe Notes</text>
+<text x="36" y="86" font-size="14" fill="#9aa3b2">Version 1.4.0, Electron 28.2.0</text>
+<text x="36" y="132" font-size="15" fill="#9aa3b2">What an injected script can reach</text>
+<text x="36" y="172" font-size="34" font-weight="700" fill="#e5484d">Your whole PC</text>
+<rect x="36" y="204" width="150" height="86" rx="10" fill="#1b212c"/>
+<text x="52" y="248" font-size="32" font-weight="700" fill="#e5484d">4</text>
+<text x="52" y="274" font-size="13" fill="#9aa3b2">high</text>
+<rect x="202" y="204" width="150" height="86" rx="10" fill="#1b212c"/>
+<text x="218" y="248" font-size="32" font-weight="700" fill="#f5a524">3</text>
+<text x="218" y="274" font-size="13" fill="#9aa3b2">medium</text>
+<rect x="368" y="204" width="150" height="86" rx="10" fill="#1b212c"/>
+<text x="384" y="248" font-size="32" font-weight="700" fill="#8b93a3">2</text>
+<text x="384" y="274" font-size="13" fill="#9aa3b2">low</text>
+<rect x="534" y="204" width="150" height="86" rx="10" fill="#1b212c"/>
+<text x="550" y="248" font-size="32" font-weight="700" fill="#5b8def">3</text>
+<text x="550" y="274" font-size="13" fill="#9aa3b2">to review</text>
+<text x="36" y="336" font-size="13" fill="#9aa3b2">Static scan. Matches are places to read, not confirmed bugs.</text>
+<text x="36" y="356" font-size="13" fill="#5f6878">electron-xray</text>
+</svg>
